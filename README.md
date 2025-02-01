@@ -48,3 +48,19 @@ export default tseslint.config({
   },
 })
 ```
+
+
+
+
+
+
+
+
+
+- Backend: stored in /backend
+  install: `npm i`
+  run:     `npm start`
+
+- Frontend: knead stores all the frontend files
+  install: `npm i`
+  run:     `npm run start`
